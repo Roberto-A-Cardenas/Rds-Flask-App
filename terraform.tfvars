@@ -1,0 +1,5 @@
+db_username   = "flaskadmin"
+db_password   = "Vegetainglendale25" 
+ec2_key_name  = "terraform-key"
+project_name  = "rds-flask-app"
+db_name       = "flaskdb"
