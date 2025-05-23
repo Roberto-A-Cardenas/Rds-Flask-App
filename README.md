@@ -13,7 +13,7 @@ This project provisions a secure, scalable web application on AWS using Terrafor
 - **AWS**: EC2, VPC, Subnets, RDS (PostgreSQL), Security Groups
 - **Terraform**: IaC tool for AWS provisioning
 - **Flask**: Python web application
-- **PostgreSQL**: RDS-managed database
+- **PostgreSQL**: RDS managed database
 
 ## 📐 Architecture Diagram
 ![diagram](diagram.png)
