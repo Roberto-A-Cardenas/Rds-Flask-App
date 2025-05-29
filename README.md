@@ -16,7 +16,7 @@ This project provisions a secure, scalable web application on AWS using Terrafor
 - **PostgreSQL**: RDS managed database
 
 ## 📐 Architecture Diagram
-![diagram](diagram.png)
+![diagram](Diagram.png)
 
 ## 🗂 Folder Structure
 ```
